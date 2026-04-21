@@ -1,0 +1,108 @@
+# Business Requirements Gathering for BI Reports
+
+### **1. Identify Key Stakeholders**
+
+This report is intened for technical recruiter/employers to review. The report will be formatted as a consumer report to easily navigating project findings and summary.
+
+### **2. Define Reporting Objectives**
+
+ It is noted that the dataset is hosted on the kaggle.com platform and I was not able to naviagte key objective for the dataset. 
+
+## Understanding Why the Report Is Needed. Clarify the business purpose behind analyzing this dataset. Objectives for this dataset include:
+
+    - Improving order fulfillment efficiency
+
+    - Understanding customer purchasing behavior
+
+    - Monitoring sales performance across products, categories, or regions
+
+    - Identifying logistics bottlenecks (shipping delays, delivery failures)
+
+    - Evaluating supplier performance and inventory flow
+
+    - Reducing operational costs in the supply chain
+
+## Identify Key Performance Indicators (KPIs)
+Based on the dataset’s structure (orders, products, customers, logistics), relevant KPIs include:
+
+Possible KPIs
+  -  Total revenue (from price + shipping_charges)
+
+  - Average order value
+
+  - On‑time delivery rate (order_delivered_timestamp vs. order_estimated_delivery_date)
+
+  - Customer lifetime value (CLV)
+
+  - Payment success rate
+
+  - Category‑level sales
+   
+---
+For this project I chosen to view this dataset as a stationary operation to monitor.
+
+  - Daily order volume
+
+  - Real‑time delivery status
+
+  - Warehouse queue and backlog
+
+  - Carrier delays
+
+### **3. Gather Data Requirements**
+
+All required data is already in the dataset:
+
+Orders table → timestamps, status
+
+Order items → price, shipping, product, seller
+
+Customers → location
+
+Payments → payment type, value
+
+Products → category, dimensions
+
+- Define the **granularity** (e.g., daily, weekly, monthly data).
+The dataset includes timestamps → supports:
+
+Trend analysis
+
+Seasonality
+
+Cohort analysis
+
+### **4. Identify Report Structure and Visualization Needs**
+
+- Determine **reporting format**:
+    - **Dashboards** (interactive, high-level overviews).
+    - **Static reports** (exportable, detailed analysis).
+    - **Self-service BI tools** (allowing users to explore data).
+- Select appropriate **chart types** (bar, line, pie, heatmap, KPI indicators).
+- Identify required **filters and drill-down options**.
+
+### **5. Document Business Rules and Calculations**
+
+- Define any **data transformations** needed before reporting (e.g., currency conversion, date adjustments).
+- List **formulae for calculated fields** (e.g., revenue growth rate, customer churn rate).
+- Document **aggregation rules** (sum, average, median) for grouped data.
+
+### **6. Define Report Delivery and Frequency**
+
+- Determine if the report should be **real-time, daily, weekly, or ad-hoc**.
+- Specify preferred **report delivery channels** (e.g., email, Power BI, Tableau, Excel).
+- Identify **alerting mechanisms** for significant changes (e.g., revenue drop alerts).
+
+### **7. Review and Validate Requirements**
+
+- Present a **mock-up or wireframe** of the report to stakeholders for feedback.
+- Adjust based on user input and ensure **alignment with business needs**.
+- Confirm **technical feasibility** with the BI and IT teams.
+
+### **8. Document and Sign Off on Requirements**
+
+- Create a formal **requirements document** including:
+    - **Objective of the report**.
+    - **Data sources and calculations**.
+    - **Report structure and visualization details**.
+    - **Delivery method and schedule**
