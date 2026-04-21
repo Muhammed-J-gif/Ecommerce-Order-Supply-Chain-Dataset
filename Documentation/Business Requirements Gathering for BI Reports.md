@@ -6,7 +6,7 @@ It is formatted like a **consumer‑style report** to make project findings easy
 
 ---
 
-## 2. Define Reporting Objectives
+## 2. Define Reporting "Objectives"
 The dataset is hosted on **Kaggle**, and the original business objective is not explicitly defined.  
 For this project, the analysis focuses on understanding operational and sales performance.
 
