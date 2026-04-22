@@ -1,4 +1,4 @@
-# 📊 Business Requirements Gathering for BI Reports
+# Business Requirements Gathering for BI Reports
 
 ## 1. Identify Key Stakeholders
 This report is intended for **technical recruiters and employers** to review.  
@@ -10,7 +10,7 @@ It is formatted like a **consumer‑style report** to make project findings easy
 The dataset is hosted on **Kaggle**, and the original business objective is not explicitly defined.  
 For this project, the analysis focuses on understanding operational and sales performance.
 
-### 🎯 Business Objectives
+### Business Objectives
 - Improve order fulfillment efficiency  
 - Understand customer purchasing behavior  
 - Monitor sales performance across products, categories, and regions  
@@ -18,7 +18,7 @@ For this project, the analysis focuses on understanding operational and sales pe
 - Evaluate supplier performance and inventory flow  
 - Reduce operational costs in the supply chain  
 
-### 📌 Additional Operational Focus (Chosen for This Project)
+### Additional Operational Focus (Chosen for This Project)
 Viewing the dataset as a **stationary operations monitoring system**:
 - Daily order volume  
 - Real‑time delivery status  
@@ -29,7 +29,7 @@ Viewing the dataset as a **stationary operations monitoring system**:
 
 ## 3. Identify Key Performance Indicators (KPIs)
 
-### 📈 Possible KPIs
+### KPIs
 - Total revenue (price + shipping charges)  
 - Average order value (Total Revenue ÷ Number of Orders) 
 - On‑time delivery rate  (Calculation TBD)
@@ -37,7 +37,7 @@ Viewing the dataset as a **stationary operations monitoring system**:
 - Payment success rate  (Payment Success Rate = Number of Successful Payments / Total Payment Attempts)
 - Category‑level sales  ()
 
-### 🧭 Operational KPIs
+### Operational KPIs
 - Daily order volume  
 - Delivery status tracking  
 - Warehouse backlog  
@@ -57,7 +57,7 @@ All required data is already included in the dataset:
 | **Payments** | payment type, value |
 | **Products** | category, dimensions |
 
-### 📅 Granularity
+### Granularity
 The dataset includes timestamps, enabling:
 - Trend analysis  
 - Seasonality analysis  
@@ -67,19 +67,19 @@ The dataset includes timestamps, enabling:
 
 ## 5. Identify Report Structure & Visualization Needs
 
-### 🖥 Reporting Format Options
+### Reporting Format Options
 - **Dashboards** (interactive, high‑level)  
 - **Static reports** (PDF/Excel exports)  
 - **Self‑service BI tools** (Power BI, Tableau, Looker)
 
-### 📊 Visualization Types
+### Visualization Types
 - Bar charts  
 - Line charts  
 - Pie charts  
 - Heatmaps  
 - KPI indicators  
 
-### 🔍 Filters & Drill‑Downs
+### Filters & Drill‑Downs
 - Date range  
 - Product category  
 - Customer region  
@@ -89,17 +89,17 @@ The dataset includes timestamps, enabling:
 
 ## 6. Document Business Rules & Calculations
 
-### 🔧 Data Transformations
+### Data Transformations
 - Currency normalization  
 - Timestamp conversions  
 - Delivery time calculations  
 
-### 🧮 Calculated Fields
+### Calculated Fields
 - Revenue growth rate  
 - Customer churn rate  
 - Delivery delay duration  
 
-### 📚 Aggregation Rules
+### Aggregation Rules
 - SUM (revenue, quantity)  
 - AVG (order value, delivery time)  
 - MEDIAN (shipping cost)  
