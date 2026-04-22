@@ -40,8 +40,8 @@ Viewing the dataset as a **stationary operations monitoring system**:
 ### Operational KPIs
 - Daily order volume  
 - Delivery status tracking  
-- Warehouse backlog  
-- Carrier performance  
+- Warehouse backlog  --- Additional data is required from wharehouse to measure the backlog of orders.
+- Carrier performance  --- Additional data is required from wharehouse to measure the operation of order fulfillment.
 
 ---
 
