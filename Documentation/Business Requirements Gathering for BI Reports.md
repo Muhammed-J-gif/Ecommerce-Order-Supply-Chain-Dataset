@@ -31,11 +31,11 @@ Viewing the dataset as a **stationary operations monitoring system**:
 
 ### 📈 Possible KPIs
 - Total revenue (price + shipping charges)  
-- Average order value  
-- On‑time delivery rate  
-- Customer lifetime value (CLV)  
-- Payment success rate  
-- Category‑level sales  
+- Average order value (Total Revenue ÷ Number of Orders) 
+- On‑time delivery rate  (Calculation TBD)
+- Customer lifetime value (CLV) (CLV = Total Revenue per Customer)
+- Payment success rate  (Payment Success Rate = Number of Successful Payments / Total Payment Attempts)
+- Category‑level sales  ()
 
 ### 🧭 Operational KPIs
 - Daily order volume  
@@ -104,25 +104,3 @@ The dataset includes timestamps, enabling:
 - AVG (order value, delivery time)  
 - MEDIAN (shipping cost)  
 
----
-
-## 7. Define Report Delivery & Frequency
-- Real‑time, daily, weekly, or ad‑hoc reporting  
-- Delivery channels: Power BI, Tableau, Excel, email  
-- Alerts for significant changes (e.g., revenue drop, spike in delays)  
-
----
-
-## 8. Review & Validate Requirements
-- Present mockups or wireframes to stakeholders  
-- Adjust based on feedback  
-- Confirm technical feasibility with BI/IT teams  
-
----
-
-## 9. Document & Sign‑Off
-A final requirements document should include:
-- Report objectives  
-- Data sources & calculations  
-- Report structure & visuals  
-- Delivery method & schedule  
