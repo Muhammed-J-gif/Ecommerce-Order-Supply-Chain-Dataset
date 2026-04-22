@@ -22,7 +22,7 @@ For this project, the analysis focuses on understanding operational and sales pe
 Viewing the dataset as a **stationary operations monitoring system**:
 - Daily order volume  
 - Real‑time delivery status  
-- Warehouse queue and backlog  
+- Warehouse queue and backlog 
 - Carrier delays  
 
 ---
