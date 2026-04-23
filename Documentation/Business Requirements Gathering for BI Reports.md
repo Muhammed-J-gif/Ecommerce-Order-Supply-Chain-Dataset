@@ -90,7 +90,7 @@ The dataset includes timestamps, enabling:
 ## 6. Document Business Rules & Calculations
 
 ### Data Transformations
-- Currency normalization  
+- Currency normalization (Not required due to the data already display sale price without currency symbols. This helps with keep the nurmerical data consistent as EDA is done.)
 - Timestamp conversions  
 - Delivery time calculations  
 
