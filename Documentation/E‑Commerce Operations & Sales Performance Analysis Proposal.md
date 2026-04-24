@@ -8,7 +8,7 @@ The final deliverables include dashboards, KPI tracking, statistical testing, an
 
 ## **Project Milestones**
 
-| **Milestone** | **Tasks** | **Deliverables / Reports** | **Relevant Stakeholder (Optional)** |
+| **Milestone** | **Tasks** | **Deliverables / Reports** | **Relevant Stakeholder (Optional)** | **Status** |
 |--------------|-----------|----------------------------|-------------------------------------|
 | **1** | Define project scope  
 **PACE Stage: Plan** | • Project charter  
