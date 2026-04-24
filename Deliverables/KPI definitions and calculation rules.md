@@ -69,18 +69,11 @@ Highlights checkout friction, payment gateway issues, or fraud‑related decline
 
 ## 🏭 Operational KPIs (External Data Required)
 
-Some operational metrics depend on systems outside the provided dataset. These may include:
+Some operational metrics were identified as relevant but required external data not included in the dataset. These include:
 
-- **Warehouse backlog** (pending orders not yet processed)  
-- **Pick/pack cycle time**  
-- **Inventory accuracy**  
-- **Fulfillment SLA adherence**  
+- Warehouse backlog
+- Pick/pack cycle time
+- Inventory accuracy
+- Fulfillment SLA adherence
 
-If needed, these can be integrated later through additional data sources.
-
----
-
-## 📌 Notes
-- All KPIs should be calculated consistently across reporting periods.  
-- Any assumptions or data transformations must be documented in the analysis code or notebooks.  
-- External data dependencies should be flagged early to avoid gaps in reporting.
+These KPIs are documented for potential future expansion of the analytics pipeline.
