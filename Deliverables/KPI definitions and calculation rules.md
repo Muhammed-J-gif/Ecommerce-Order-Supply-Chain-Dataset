@@ -7,15 +7,19 @@ This document outlines the key performance indicators (KPIs) and analytical dime
 ## 🧾 Revenue & Order Metrics
 
 ### **Total Revenue**
+
 The sum of all completed order values within the analysis period.  
 Useful for understanding overall business performance and growth trends.
 
 ### **Average Order Value (AOV)**
+
 AOV = Total Revenue / Number of Orders
+
 Indicates customer spending behavior and helps evaluate pricing and upsell opoortunities.
 
 ### **Daily Order Volume**
 The count of orders placed each day.  
+
 Supports demand forecasting, staffing decisions, and anomaly detection.
 
 ---
