@@ -68,9 +68,9 @@ The BA will be responsible for:
 ---
 
 ## **Expected Deliverables**
-- Business requirements document  
-- KPI definitions and calculation rules  
-- Data dictionary  
-- EDA summary  
-- Dashboard wireframes or mockups  
-- Final insights and recommendations report  
+- Business requirements document  (Done)
+- KPI definitions and calculation rules (WIP) 
+- Data dictionary  (Done)
+- EDA summary  (WIP)
+- Dashboard wireframes or mockups  (Not Started)
+- Final insights and recommendations report  (WIP)
