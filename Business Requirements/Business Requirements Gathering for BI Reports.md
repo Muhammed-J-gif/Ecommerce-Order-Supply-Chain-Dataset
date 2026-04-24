@@ -1,12 +1,6 @@
 # Business Requirements Gathering for BI Reports
 
-## 1. Identifying Key Stakeholders
-This report is intended for **technical recruiters and employers** to review.  
-It is formatted like a **consumer‑style report** to make project findings easy to navigate.
-
----
-
-## 2. Defining Reporting "Objectives"
+## Defining Reporting "Objectives"
 The dataset is hosted on **Kaggle**, and the original business objective is not explicitly defined.  
 For this project, the analysis focuses on understanding operational and sales performance.
 
@@ -27,7 +21,7 @@ Viewing the dataset as a **stationary operations monitoring system**:
 
 ---
 
-## 3. Identify Key Performance Indicators (KPIs)
+## Identify Key Performance Indicators (KPIs)
 
 ### KPIs
 - Total revenue (price + shipping charges)  
@@ -45,7 +39,7 @@ Viewing the dataset as a **stationary operations monitoring system**:
 
 ---
 
-## 4. Gather Data Requirements
+## Gather Data
 
 All required data is already included in the dataset:
 
@@ -65,7 +59,7 @@ The dataset includes timestamps, enabling:
 
 ---
 
-## 5. Identify Report Structure & Visualization Needs
+## Identify Report Structure & Visualization Needs
 
 ### Reporting Format Options
 - **Executive Summary Report** (One-page overview of the whole analysis)
@@ -88,7 +82,7 @@ The dataset includes timestamps, enabling:
 
 ---
 
-## 6. Document Business Rules & Calculations
+## Document Business Rules & Calculations
 
 ### Data Transformations
 - Currency normalization (All values that fall onto this variable have been transformed to whole number to prevent misunderstanding of currency of each region)
