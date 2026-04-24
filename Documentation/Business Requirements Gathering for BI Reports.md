@@ -1,12 +1,12 @@
 # Business Requirements Gathering for BI Reports
 
-## 1. Identify Key Stakeholders
+## 1. Identifying Key Stakeholders
 This report is intended for **technical recruiters and employers** to review.  
 It is formatted like a **consumer‑style report** to make project findings easy to navigate.
 
 ---
 
-## 2. Define Reporting "Objectives"
+## 2. Defining Reporting "Objectives"
 The dataset is hosted on **Kaggle**, and the original business objective is not explicitly defined.  
 For this project, the analysis focuses on understanding operational and sales performance.
 
