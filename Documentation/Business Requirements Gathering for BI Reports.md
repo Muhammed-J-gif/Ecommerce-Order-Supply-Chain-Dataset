@@ -32,16 +32,16 @@ Viewing the dataset as a **stationary operations monitoring system**:
 ### KPIs
 - Total revenue (price + shipping charges)  
 - Average order value (Total Revenue ÷ Number of Orders) 
-- On‑time delivery rate  (Calculation TBD)
+- On‑time delivery rate 
 - Customer lifetime value (CLV) (CLV = Total Revenue per Customer)
 - Payment success rate  (Payment Success Rate = Number of Successful Payments / Total Payment Attempts)
-- Category‑level sales  ()
+- Category‑level sales 
 
 ### Operational KPIs
 - Daily order volume  
 - Delivery status tracking  
 - Warehouse backlog  --- Additional data is required from wharehouse to measure the backlog of orders.
-- Carrier performance  --- Additional data is required from wharehouse to measure the operation of order fulfillment.
+- Carrier performance  --- Additional data is required from the carrier to measure order fulfillment.
 
 ---
 
@@ -68,7 +68,8 @@ The dataset includes timestamps, enabling:
 ## 5. Identify Report Structure & Visualization Needs
 
 ### Reporting Format Options
-- **Dashboards** (interactive, high‑level)  
+- **Executive Summary Report** (One-page overview of the whole analysis)
+- **Dashboards** for KPI's 
 - **Static reports** (PDF/Excel exports)  
 - **Self‑service BI tools** (Power BI, Tableau, Looker)
 
@@ -90,14 +91,12 @@ The dataset includes timestamps, enabling:
 ## 6. Document Business Rules & Calculations
 
 ### Data Transformations
-- Currency normalization (Not required due to the data already display sale price without currency symbols. This helps with keep the nurmerical data consistent as EDA is done.)
-- Timestamp conversions  
-- Delivery time calculations  
+- Currency normalization (All values that fall onto this variable have been transformed to whole number to prevent misunderstanding of currency of each region)
+- Timestamp conversions  (Converted recorded date native to python for ease stremlining data)
+- Delivery time calculations  (Calculated )
 
 ### Calculated Fields
-- Revenue growth rate  
-- Customer churn rate  
-- Delivery delay duration  
+- Revenue growth rate  (Given the dataset include date & time stamp, this was measured from the start & end date recorded.)
 
 ### Aggregation Rules
 - SUM (revenue, quantity)  
