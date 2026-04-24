@@ -1,5 +1,6 @@
 # Ecommerce-Order-Supply-Chain-Dataset
 source link: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset/data
+See E‑Commerce Operations & Sales Performance Analysis Proposal.md for porject proposal
 
 ## About Dataset
 Dataset Description
