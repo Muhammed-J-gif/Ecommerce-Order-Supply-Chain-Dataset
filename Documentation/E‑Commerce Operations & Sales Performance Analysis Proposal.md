@@ -1,49 +1,76 @@
-# **E‑Commerce Operations & Sales Performance Analysis Proposal**
+# **Project Proposal: E‑Commerce Operations & Sales Performance Analysis**
 
-## 🎯 Overview
-This project analyzes an e‑commerce dataset (sourced from Kaggle) to uncover insights into sales performance, customer behavior, operational efficiency, and logistics bottlenecks.  
-The final deliverables include dashboards, KPI tracking, statistical testing, and a stakeholder‑ready report.
+## **Purpose of the Project**
+To conduct analysis of an e‑commerce dataset to better understand how the business is performing across sales, customer behavior, and operational processes.  
+The goal is to produce clear insights and dashboards that support decision‑making for sales, operations, and logistics teams.
 
 ---
 
-## **Project Milestones**
+## **Project Objectives**
+The business analyst will focus on the following areas:
 
-| **Milestone** | **Tasks** | **Deliverables / Reports** | **Relevant Stakeholder (Optional)** | **Status** |
-|--------------|-----------|----------------------------|-------------------------------------|
-| **1** | Define project scope  
-**PACE Stage: Plan** | • Project charter  
-• Business requirements summary | Technical recruiters, hiring managers |
-| **1a** | Identify key stakeholders & objectives  
-**PACE Stage: Plan** | • Stakeholder map  
-• KPI list | Business analysts, operations managers |
-| **2** | Gather and validate dataset  
-**PACE Stage: Acquire** | • Cleaned dataset ready for EDA | Data engineering team |
-| **2a** | Document data dictionary & granularity  
-**PACE Stage: Acquire** | • Data dictionary  
-• Field‑level definitions | BI developers |
-| **3** | Conduct exploratory data analysis (EDA)  
-**PACE Stage: Explore** | • EDA report (sales trends, customer behavior, delivery patterns) | Analytics team |
-| **3a** | Develop visualizations & dashboards  
-**PACE Stage: Explore** | • Tableau/Power BI dashboards  
-• KPI indicators | Operations & sales leadership |
-| **4** | Perform operational analysis  
-**PACE Stage: Analyze** | • Delivery performance analysis  
-• Carrier delay insights  
-• Warehouse backlog estimation (noting missing data) | Logistics & warehouse teams |
-| **4a** | Statistical testing between key variables  
-**PACE Stage: Analyze** | • Hypothesis test results (e.g., delivery time vs. region, payment type vs. success rate) | Data science reviewers |
-| **5** | Build predictive or diagnostic models  
-**PACE Stage: Construct** | • Model documentation  
-• Feature importance summary | Technical hiring reviewers |
-| **5a** | Evaluate model performance  
-**PACE Stage: Construct** | • Model success determination  
-• Error analysis | Data science team |
-| **6** | Finalize insights & recommendations  
-**PACE Stage: Execute** | • Final model  
-• Executive summary | All stakeholders |
-| **6a** | Deliver final report & presentation  
-**PACE Stage: Execute** | • Stakeholder‑ready report  
-• Presentation deck | Recruiters, employers, leadership |
-- A **copy‑ready executive summary**
+### **Sales & Customer Insights**
+- Identify overall sales performance trends  
+- Understand customer purchasing patterns  
+- Evaluate product and category performance  
+- Measure customer lifetime value  
 
-Just tell me what you want to add to your repository.
+### **Operational Insights**
+- Assess delivery performance and on‑time delivery rates  
+- Identify shipping delays and carrier‑related issues  
+- Review payment success rates  
+- Monitor daily order volume and operational workload  
+
+These objectives reflect typical needs of an e‑commerce operations environment.
+
+---
+
+## **Key Performance Indicators (KPIs)**
+The analysis will track:
+
+- Total revenue  
+- Average order value  
+- Category‑level sales  
+- Customer lifetime value  
+- On‑time delivery rate  
+- Daily order volume  
+- Payment success rate  
+- Carrier performance metrics  
+
+Additional operational KPIs (e.g., warehouse backlog) may require external data not included in the dataset.
+
+---
+
+## **Data Overview**
+All required data is available within the dataset:
+
+- **Orders:** timestamps, order status  
+- **Order Items:** product details, price, shipping cost  
+- **Customers:** geographic information  
+- **Payments:** payment type, payment value  
+- **Products:** category, dimensions  
+
+The dataset includes timestamps, enabling trend and seasonality analysis.
+
+---
+
+## **Scope of Work for the Business Analyst**
+The BA will be responsible for:
+
+1. **Documenting business requirements**  
+2. **Defining KPIs and business rules**  
+3. **Validating data fields and granularity**  
+4. **Supporting exploratory data analysis**  
+5. **Designing dashboard layout and reporting structure**  
+6. **Ensuring calculations (AOV, CLV, revenue, delivery time, etc.) follow agreed‑upon rules**  
+7. **Preparing a stakeholder‑friendly summary of findings**
+
+---
+
+## **Expected Deliverables**
+- Business requirements document  
+- KPI definitions and calculation rules  
+- Data dictionary  
+- EDA summary  
+- Dashboard wireframes or mockups  
+- Final insights and recommendations report  
