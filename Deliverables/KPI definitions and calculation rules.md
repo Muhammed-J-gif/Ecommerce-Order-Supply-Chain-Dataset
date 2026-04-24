@@ -11,9 +11,7 @@ The sum of all completed order values within the analysis period.
 Useful for understanding overall business performance and growth trends.
 
 ### **Average Order Value (AOV)**
-\[
-\text{AOV} = \frac{\text{Total Revenue}}{\text{Number of Orders}}
-\]  
+AOV = Total Revenue / Number of Orders
 Indicates customer spending behavior and helps evaluate pricing and upsell opoortunities.
 
 ### **Daily Order Volume**
@@ -41,9 +39,9 @@ Useful for segmentation, retention strategies, and marketing ROI analysis.
 ## 🚚 Fulfillment & Delivery KPIs
 
 ### **On‑Time Delivery Rate**
-\[
-\text{On‑Time Delivery Rate} = \frac{\text{Orders Delivered On Time}}{\text{Total Delivered Orders}}
-\]  
+
+On‑Time Delivery Rate = Orders Delivered On Time / Total Delivered Orders
+
 Measures fulfillment reliability and carrier performance.
 
 ### **Carrier Performance Metrics**
@@ -58,9 +56,9 @@ Evaluation of shipping carriers based on:
 ## 💳 Payment & Checkout Metrics
 
 ### **Payment Success Rate**
-\[
-\text{Payment Success Rate} = \frac{\text{Successful Payments}}{\text{Total Payment Attempts}}
-\]  
+
+Payment Success Rate = Successful Payments/Total Payment Attempts
+
 Highlights checkout friction, payment gateway issues, or fraud‑related declines.
 
 ---
