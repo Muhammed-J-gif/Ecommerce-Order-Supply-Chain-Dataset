@@ -72,5 +72,5 @@ The BA will be responsible for:
 - KPI definitions and calculation rules (Done) 
 - Data dictionary (Done)
 - EDA summary  (Done. File too large to upload. The file uploaded is a smaller sized file with enough analysis and insight to generate reports.)
-- Dashboard for KPI reporting  (Done)
+- Dashboard for KPI reporting  (Done. Not in deliverables folder due to error occuring when file is moved.)
 - Final insights and recommendations report  (Done)
