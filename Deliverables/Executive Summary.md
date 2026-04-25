@@ -39,8 +39,9 @@ Regional Sales & Seller Performance: Our top sales come from São Paulo (SP), Ri
 
 ## **Recommendations & Next Steps:**
 
-Improve Deliveries: Root cause why some deliveries are delayed and figure out how to get them to customers faster. This could mean finding better shipping routes, working more closely with delivery companies, or making the warehouses more efficient.
-Smart Marketing: Create special offers and loyalty programs for the most valuable customers. The business should also highlight the most popular products and grow presence in the best-performing regions.
-Support Sellers: Advise to build strong relationships with top sellers and offer help or incentives to others so they can also improve their sales and operations.
-Deeper Look: Dig deeper into sales patterns, like what sells best on certain days of the week or in specific product groups, to find new ways to grow and run things even better.
+  - Improve Deliveries: Root cause why some deliveries are delayed and figure out how to get them to customers faster. This could mean finding better shipping routes, working more closely with delivery companies, or making the warehouses more efficient.
+  - Smart Marketing: Create special offers and loyalty programs for the most valuable customers. The business should also highlight the most popular products and grow presence in the best-performing regions.
+  - Support Sellers: Advise to build strong relationships with top sellers and offer help or incentives to others so they can also improve their sales and operations.
+  - Deeper Look: Dig deeper into sales patterns, like what sells best on certain days of the week or in specific product groups, to find new ways to grow and run things even better.
+
 This summary provides the information needed to make strategic decisions that will improve the business platform's performance and keep the customers happy.
