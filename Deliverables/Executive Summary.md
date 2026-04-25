@@ -19,9 +19,9 @@ For this project, the analysis focuses on understanding operational and sales pe
 
   1. **Key Sales & Customer Insights**
 
-Sales Trends: sales have been pretty steady, generally growing from September 2016 to September 2018, with the best periods being late 2017 to mid-2018. While there is good growth, sales can go up and down, so we need to keep watching these trends closely.
+Sales Trends: sales have been pretty steady, generally growing from September 2016 to September 2018, with the best periods being late 2017 to mid-2018. While there is good growth, sales can go up and down, keep watching these trends closely.
 
-Average Order Value (AOV): On average, each order brings in about $13,845.84. This number is important because it shows how much customers typically spend, which helps us with pricing and promotions.
+Average Order Value (AOV): On average, each order brings in about $13,845.84. This number is important because it shows how much customers typically spend, which helps with pricing and promotions.
 
 Popular Products: The 'toys' category is by far the biggest seller, both in how many items are sold and how much revenue they bring in. 'Health_beauty' and 'computers_accessories' also do very well. This tells there's strong demand for these products, and 'toys' in particular seem to have higher-priced items.
 
@@ -33,7 +33,7 @@ Delivery Performance: 77.00% of orders were delivered on time or even early, whi
 
 Payment Success Rate: The payment system is excellent, with a 100% success rate. This shows that most payments go through without a hitch.
 
-Daily Order Volume: The number of orders we get each day changes. Understanding these patterns helps us make sure we have enough staff and resources to handle everything, especially during busy times.
+Daily Order Volume: The number of orders each day changes. Understanding these patterns helps make sure there is enough staff and resources to handle everything, especially during busy times.
 
 Regional Sales & Seller Performance: Our top sales come from São Paulo (SP), Rio de Janeiro (RJ), and Minas Gerais (MG), making these states very important for our business. Also, a few key sellers are responsible for a large portion of our sales and orders, showing how valuable they are to the business.
 
@@ -42,5 +42,5 @@ Regional Sales & Seller Performance: Our top sales come from São Paulo (SP), Ri
 Improve Deliveries: Root cause why some deliveries are delayed and figure out how to get them to customers faster. This could mean finding better shipping routes, working more closely with delivery companies, or making the warehouses more efficient.
 Smart Marketing: Create special offers and loyalty programs for the most valuable customers. The business should also highlight the most popular products and grow presence in the best-performing regions.
 Support Sellers: Advise to build strong relationships with top sellers and offer help or incentives to others so they can also improve their sales and operations.
-Deeper Look: We'll dig deeper into sales patterns, like what sells best on certain days of the week or in specific product groups, to find new ways to grow and run things even better.
+Deeper Look: Dig deeper into sales patterns, like what sells best on certain days of the week or in specific product groups, to find new ways to grow and run things even better.
 This summary provides the information needed to make strategic decisions that will improve the business platform's performance and keep the customers happy.
