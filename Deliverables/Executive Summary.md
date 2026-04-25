@@ -1,10 +1,21 @@
 # Executive Summary: E-commerce Operations & Sales Performance Analysis for Stakeholders
 
-## Project Objective
+## **Project Objective**
 
-
+To conduct analysis of an e‑commerce dataset to better understand how the business is performing across sales, customer behavior, and operational processes.
+The goal is to produce clear insights and dashboards that support decision‑making for sales, operations, and logistics teams.
 
 This report gives a clear picture of how the e-commerce platform is performing. Analysis on sales, what customers are buying, and how smoothly operations are running. The goal is to provide insights that help sales, operations, and logistics teams make good decisions.
+
+## **Context & Importance**
+
+The dataset is hosted on Kaggle, and the original business objective is not explicitly defined.
+For this project, the analysis focuses on understanding operational and sales performance.
+
+## **Methodology**
+
+
+## **Key Findings**
 
   1. **Key Sales & Customer Insights**
 
@@ -26,7 +37,7 @@ Daily Order Volume: The number of orders we get each day changes. Understanding 
 
 Regional Sales & Seller Performance: Our top sales come from São Paulo (SP), Rio de Janeiro (RJ), and Minas Gerais (MG), making these states very important for our business. Also, a few key sellers are responsible for a large portion of our sales and orders, showing how valuable they are to the business.
 
-**Recommendations & Next Steps:**
+## **Recommendations & Next Steps:**
 
 Improve Deliveries: Root cause why some deliveries are delayed and figure out how to get them to customers faster. This could mean finding better shipping routes, working more closely with delivery companies, or making the warehouses more efficient.
 Smart Marketing: Create special offers and loyalty programs for the most valuable customers. The business should also highlight the most popular products and grow presence in the best-performing regions.
